@@ -31,3 +31,9 @@ Full depth: 1.25mm
 - [ ] Instead of this hole, should be 2 here
 <img width="2552" height="1274" alt="image" src="https://github.com/user-attachments/assets/6a364901-7ab4-4818-bc2c-ee65cc1104a9" />
 ![IMG_9334](https://github.com/user-attachments/assets/ab4946ca-db47-4531-a5af-48fe3cef9d9d)
+
+
+---
+
+- [ ] Fix the Clip hole
+<img width="2552" height="1274" alt="image" src="https://github.com/user-attachments/assets/83128c4d-e8cc-4308-8c93-029eade57a57" />
